@@ -1,2 +1,2 @@
 # ticTOKEN01-server
-Servidor de autenticación JWT
+JWT server for autentication
